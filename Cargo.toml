@@ -1,0 +1,17 @@
+[package]
+name = "rt"
+version = "0.1.0"
+authors = ["Yoshi"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.23.9"
+rand = "0.8.3"
+progressing = "3.0.2"
+piston_window = "0.120.0"
+fast_inv_sqrt = "1.0.1"
+threadpool = "1.0"
+num = "0.4.0"
+num_cpus = "1.0"
